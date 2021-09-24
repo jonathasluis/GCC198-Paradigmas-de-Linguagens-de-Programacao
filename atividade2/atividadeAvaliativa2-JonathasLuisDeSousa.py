@@ -1,3 +1,8 @@
+'''
+Desenvolvido por Jonathas Luis de Sousa
+Universidade Federal de Lavras
+'''
+
 from math import sqrt
 import sys
 
