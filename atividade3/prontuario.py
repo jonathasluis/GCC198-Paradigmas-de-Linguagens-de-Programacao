@@ -1,3 +1,11 @@
+'''
+Desenvolvido por Jonathas Luis de Sousa
+Paradigmas de Linguagens de Programação - GCC198
+Universidade Federal de Lavras
+
+Paradigma Orientado a Objetos
+'''
+
 from medico import Medico
 from medicamento import Medicamento
 from datetime import datetime

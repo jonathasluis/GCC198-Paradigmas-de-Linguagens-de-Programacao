@@ -1,3 +1,11 @@
+'''
+Desenvolvido por Jonathas Luis de Sousa
+Paradigmas de Linguagens de Programação - GCC198
+Universidade Federal de Lavras
+
+Paradigma Orientado a Objetos
+'''
+
 import abc
 
 class Pessoa(abc.ABC):

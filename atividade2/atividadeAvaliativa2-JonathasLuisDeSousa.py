@@ -1,6 +1,9 @@
 '''
 Desenvolvido por Jonathas Luis de Sousa
+Paradigmas de Linguagens de Programação - GCC198
 Universidade Federal de Lavras
+
+Paradigma Imperativo
 '''
 
 from math import sqrt
