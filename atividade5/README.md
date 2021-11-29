@@ -6,4 +6,3 @@
         <li><b>Exercicio 2:</b> dada uma lista de caracteres remove a primeira occorencia do caractere informado </li>
     </ul>
 </p>
-<p>nota: 100/100.
